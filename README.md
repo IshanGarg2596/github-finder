@@ -1,2 +1,2 @@
 # github-finder
-React app for searching github profile
+React app for searching github profiles
