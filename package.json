@@ -2,6 +2,7 @@
   "name": "github-finder",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://ishangarg2596.github.io/github-finder/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
